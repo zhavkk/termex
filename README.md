@@ -1,2 +1,2 @@
 # termex
-dlya deniski 
+8 + 7 var 
